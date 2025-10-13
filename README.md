@@ -31,3 +31,6 @@ Retweet? Wait, wrong platform...
 
 ## Update from refactor/merge-6932
 - Auto-generated changes
+
+## Update from docs/merge-6399
+- Auto-generated changes
